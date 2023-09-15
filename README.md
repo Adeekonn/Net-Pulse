@@ -26,3 +26,8 @@ To get started with the Network Utility Tool, follow these installation steps:
 
    ```bash
    npm install
+
+3. Now run the program !!!:
+
+   ```bash
+   node index.js
