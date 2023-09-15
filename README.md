@@ -19,5 +19,5 @@ To get started with the Network Utility Tool, follow these installation steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/network-utility-tool.git
+   git clone https://github.com/Adeekonn/Net-Pulse
    cd network-utility-tool
