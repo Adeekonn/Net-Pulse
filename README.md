@@ -21,3 +21,8 @@ To get started with the Network Utility Tool, follow these installation steps:
    ```bash
    git clone https://github.com/Adeekonn/Net-Pulse
    cd network-utility-tool
+
+2. Install all dependencies:
+
+   ```bash
+   npm install
