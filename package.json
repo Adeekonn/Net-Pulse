@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "chalk": "^5.3.0",
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "netpulse",
+  "version": "1.0.0",
+  "description": "A software related to network and stuff",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AdiKan",
+  "license": "MIT"
+}
